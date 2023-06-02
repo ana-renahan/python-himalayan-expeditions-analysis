@@ -62,6 +62,7 @@ Data Citation:
 https://www.himalayandatabase.com/ on 05/23/2023.
 
 For Additional Learning about the Himalayas:
+- "How is Everest Affecting Nepal." Accessed from https://borgenproject.org/how-everest-is-affecting-nepal/#:~:text=Money%20from%20Everest%20has%20allowed,of%20the%20average%20Nepali%20person. on 06/01/2023
 - "New Everest Rules Could Significantly Limit Who Gets to Climb." Accessed from https://www.nytimes.com/2019/08/14/world/asia/everest-climbing-rules.html on June 1, 2023.
 - “Overcrowding on Mount Everest contributes to rise in deaths.” Accessed from
 https://www.pbs.org/newshour/world/overcrowding-on-mount-everest-contributes-to-rise-in-deaths on May

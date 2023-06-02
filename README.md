@@ -1,4 +1,5 @@
 # python-himalayan-expeditions-analysis
+![Image of Himalayas from PBS.org](https://www.pbs.org/wnet/nature/files/2011/02/bisesh-gurung-DWZtqyxYU4s-unsplash-scaled-e1616436869634-610x343.jpg)
 The purpose of this repository is to demonstrate sourcing open data and executing exploratory
 analysis, defining variable relationships, and analyzing time series data. With this project, 
 I've created geographical visualizations and conduct geospation analysis within Python. I also
@@ -50,7 +51,7 @@ The original data source for this Kaggle dataset can be found at the following l
 - [The Himalayan Database](https://www.himalayandatabase.com/)
 
 The code is available as Jupyter notebooks, available under 
-/05-2023 Instacart Basket Analysis/Scripts/.
+/05-2023 Himalayan Expeditions Analysis/03 Scripts/.
 
 The final report can be found on Tableau Public via the following link:
 - [Himalayan Expeditions Project (1990-2019)](https://public.tableau.com/app/profile/ana.renahan/viz/HimalayanExpeditionsProject1990-2019/STORYBOARD?publish=yes)

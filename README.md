@@ -1,5 +1,6 @@
 # python-himalayan-expeditions-analysis
 ![Image of Himalayas from PBS.org](https://www.pbs.org/wnet/nature/files/2011/02/bisesh-gurung-DWZtqyxYU4s-unsplash-scaled-e1616436869634-610x343.jpg)
+
 The purpose of this repository is to demonstrate sourcing open data and executing exploratory
 analysis, defining variable relationships, and analyzing time series data. With this project, 
 I've created geographical visualizations and conduct geospation analysis within Python. I also

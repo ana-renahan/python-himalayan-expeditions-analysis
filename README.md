@@ -26,14 +26,14 @@ For this project, the following Python libraries were used:
 - matplotlib.pyplot
 - os
 - sklearn (importing the following)
-      - from sklearn import preprocessing
-      - from sklearn.cluster import KMeans
-      - from sklearn.preprocessing import StandardScaler
+  - from sklearn import preprocessing
+  - from sklearn.cluster import KMeans
+  - from sklearn.preprocessing import StandardScaler
 - pylab
-      - from pylab import rcParams
+  - from pylab import rcParams
 - statsmodels.api
-      - from statsmodels.tsa.stattools import adfuller
-      - from statsmodels.graphics.tsaplots import plot_acf, plot_pacf
+  - from statsmodels.tsa.stattools import adfuller
+  - from statsmodels.graphics.tsaplots import plot_acf, plot_pacf
 - warnings
 - datetime
 
@@ -43,8 +43,8 @@ In addition to using Python, Tableau was used to create the final storyboard.
 ## Executing the Code
 The data can be downloaded in the following links:
 - [Himalayan Expeditions](https://www.kaggle.com/datasets/raskoshik/himalayan-expeditions?select=expeditions.csv).
-      - The dataset "expeditions.csv" from the above link was the primary dataset
-      - The dataset "summiters.csv" was used for time series analysis.
+  - The dataset "expeditions.csv" from the above link was the primary dataset
+  - The dataset "summiters.csv" was used for time series analysis.
 
 The original data source for this Kaggle dataset can be found at the following link:
 - [The Himalayan Database](https://www.himalayandatabase.com/)
